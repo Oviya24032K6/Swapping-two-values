@@ -35,7 +35,9 @@ a,b=swap(a,b)
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![OUTPUT](image-1.png)
+
+![OUTPUT](https://github.com/Oviya24032K6/Swapping-two-values/assets/147139999/b2a0e4d7-fc0c-4f2c-bdbd-124fdb763fea)
+
 
 
 ## RESULT:
